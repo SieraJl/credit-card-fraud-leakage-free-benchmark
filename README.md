@@ -39,4 +39,3 @@ Python 3.13, scikit-learn 1.9, XGBoost 3.4, CatBoost 1.2, imbalanced-learn 0.14,
 Optuna 5.0, SHAP 0.53. Random seed: 42.
 
 
-(Suggested: MIT for code.)
